@@ -1,4 +1,4 @@
-# A* Implementation in C
+# A* Implementation in C :)
 
 This program implements the A* algorithm to find the shortest path between two points in a two-dimensional grid. The grid can be of any size, but the program is set up to create a grid of size 50x25 by default. Walls can be added to the grid, and the algorithm will find the shortest path around them.
 
